@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_wordpress_app/common/constants.dart';
+import 'package:news/common/constants.dart';
 import 'package:http/http.dart' as http;
 
 Future<bool> postComment(

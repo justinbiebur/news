@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:flutter_wordpress_app/models/Article.dart';
+import 'package:news/models/Article.dart';
 
 import 'favArticleDb.dart';
 

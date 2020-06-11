@@ -3,9 +3,9 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_wordpress_app/common/constants.dart';
-import 'package:flutter_wordpress_app/models/Comment.dart';
-import 'package:flutter_wordpress_app/widgets/commentBox.dart';
+import 'package:news/common/constants.dart';
+import 'package:news/models/Comment.dart';
+import 'package:news/widgets/commentBox.dart';
 import 'package:http/http.dart' as http;
 import 'package:loading/indicator/ball_beat_indicator.dart';
 import 'package:loading/loading.dart';
